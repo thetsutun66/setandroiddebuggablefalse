@@ -1,0 +1,21 @@
+{
+  "name": "cloneofoutsystems-plugin",
+  "version": "1.0.0",
+  "description": "Changes AndroidManifest.xml to disable auto backup by setting android:allowBackup to false.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetsutun66/cloneofoutsystemsplugin.git"
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "João Gonçalves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thetsutun66/cloneofoutsystemsplugin.git/issues"
+  },
+  "homepage": "https://github.com/thetsutun66/cloneofoutsystemsplugin.git#readme"
+}
